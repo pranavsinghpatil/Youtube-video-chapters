@@ -1,0 +1,204 @@
+start,text
+0.04,"My name is Alexandr Wang, and I am 
+the founder and CEO of Scale AI."
+3.64,Alexandr Wang co-founded a company that supplies
+6.08,"one crucial resource that 
+tech giants need: humans."
+9.72,"His company Scale AI supplies 
+high-quality training data to NVIDIA,"
+14.0,"OpenAI, General Motors, Microsoft, and Meta."
+17.44,"This data improves language models like 
+ChatGPT and supports applications in the field."
+22.4,"For instance, Scale’s human workers combined with 
+AI tools help GM’s self-driving unit Cruise by"
+28.4,"labeling data to differentiate a pedestrian from 
+a palm tree or a puddle from a manhole cover."
+34.16,"They also label behaviors, such as predicting 
+whether a person is about to cross the street."
+38.8,"All of this helps AI systems 
+make safer decisions on the road."
+42.64,"Alexandr co-founded Scale AI in 
+2016 at the age of 19, just when"
+47.52,"AI technology was beginning to take off.
+Before that, at 17, he was already coding"
+52.48,"for the question-and-answer site 
+Quora, where CEO Adam D’Angelo"
+56.2,"advised him that while four years of college 
+was overrated, two years might be valuable."
+61.72,"Alexandr ended up dropping out of MIT after his 
+freshman year, where he had been studying computer"
+66.76,"science and math, to start Scale AI with fellow 
+Quora alumni, Lucy Guo with an investment from"
+71.6,"the startup accelerator Y Combinator.
+Alexandr initially told his parents"
+75.72,"it was just a summer project.
+But deep down, he knew it had"
+79.16,"the potential to become something far bigger.
+He and Lucy recognized that self-driving car"
+83.68,"companies had amassed millions of miles of 
+driving footage to train their AI systems,"
+88.28,"yet lacked the human power to review and label 
+the data—tasks that machines can’t handle."
+94.12,"Scale AI stepped in to meet that demand.
+It was like striking gold in the digital age."
+99.56,"Even Alexander’s first name has a touch 
+of serendipity—spelled with eight letters,"
+104.0,"considered lucky in Chinese culture because eight 
+(“ba”) rhymes with prosperity or wealth, (“fa”)."
+110.4,"One of the early believers in Alexandr and Lucy’s 
+vision was Accel partner Dan Levine who not only"
+115.64,"invested $4.5 million in seed funding but also 
+offered his basement as Scale's first office."
+121.6,"Major investors later jumped on board, 
+with Peter Thiel’s venture capital firm"
+125.28,"Founders Fund investing $100 million in 2019.
+Lucy ended up parting ways with Scale AI,"
+131.52,"reportedly due to differing visions between 
+her and Alexandr, though the specific"
+135.44,"reasons have never been publicly disclosed.
+Today, Scale AI is valued at $14 billion,"
+141.56,"with Alexandr owning an estimated 15% 
+of the company, making him one of the"
+145.8,"youngest self-made billionaires.
+Initially, the company relied on"
+150.0,"outsourcing agencies in Southeast Asia and Africa 
+to hire workers for data labeling but realized"
+155.2,"managing this in-house was more cost-effective.
+In 2017, Scale AI quietly launched Remotasks,"
+162.32,"which now employs over 240,000 
+workers across 90 countries,"
+166.6,"including Kenya, the Philippines, and Venezuela.
+They work out of internet cafes or leased offices."
+172.84,"While Scale AI doesn’t openly advertise 
+its connection to Remotasks, the platform"
+177.56,"has faced accusations of operating digital 
+sweatshops, where workers have reported being"
+182.4,"paid far below the local minimum wage, with some 
+earning less than $1 a day for certain tasks."
+188.2,"Despite these allegations, Scale AI 
+has stated that they are “proud to"
+191.96,"pay rates at a living wage.”
+Some of its workers are now"
+195.32,"tasked with more complex responsibilities.
+Instead of simply labeling pre-existing data"
+200.64,"sourced from the internet, they help 
+create new data to teach models how to"
+204.64,"generate images or complete text, like in ChatGPT.
+For example, if I showed an AI system photos of my"
+211.16,"dog, Luffy, it might generate a sentence like:
+This dog is adorable and sweet and happy."
+216.88,"While factually accurate, it doesn’t sound 
+like something a person would naturally say."
+221.44,"A human labeler might edit it to 
+sound more conversational, like:"
+224.92,"This sweet, adorable dog 
+looks so happy and playful."
+228.72,But Scale AI hasn't just focused on everyday tech.
+231.52,"The company has pivoted toward military contracts.
+Scale AI has been supporting U.S. military"
+237.24,"operations by analyzing satellite images to 
+assess damage in Ukraine caused by Russian bombs."
+243.0,"To ensure sensitive data is handled securely, 
+the company employs U.S. workers for data"
+248.04,"labeling at its St. Louis office, though 
+most of its workforce remains global."
+252.68,"Alexandr was inspired to take 
+action after a 2019 trip to China,"
+256.88,"where he watched the country’s top engineers give 
+presentations on AI and was left feeling uneasy."
+262.96,He later told Forbes: “They were really dodgy
+265.48,"on what the use cases were. You 
+could tell it was for no good.”"
+269.32,"China has accelerated its investment 
+in AI technologies, for example in"
+273.4,"autonomous drone swarms that operate like 
+a swarm of bees to incapacitate the enemy."
+278.68,"If we don’t win on AI, we risk ceding 
+global influence, technological leadership,"
+283.52,"and democracy to strategic adversaries like China.
+For him, the mission to protect America is deeply"
+290.16,"personal. He grew up near the Los Alamos National 
+Laboratory in New Mexico, where both his parents"
+295.48,"worked as nuclear physicists.
+The lab is famous for developing"
+299.04,"the atomic bomb during WWII.
+Just as the atomic bomb defined"
+303.32,"the last era of warfare, he believes AI 
+now represents the future of defense."
+308.8,"Military implementations of AI are going to be 
+incredibly important. We need to ensure in this"
+312.88,"next phase that the U.S. is both economically 
+dominant but also has military leadership as"
+318.88,"well when it comes to artificial intelligence.
+Alexandr advocates for centralizing military-ready"
+324.48,"AI datasets, such as satellite imagery, 
+intelligence reports, and sensor data—critical"
+330.24,"information not readily available on the internet.
+Despite the U.S. Department of Defense generating"
+335.72,"22 terabytes of data daily—far more than 
+China’s People’s Liberation Army—a large"
+341.12,"portion remains underutilized, often stored on 
+hard drives that end up forgotten or overwritten."
+346.92,"He emphasizes the need to centralize 
+this data into a single repository"
+351.24,"where it can be processed, labeled, 
+and made AI-ready for military use."
+355.6,"Data truly is the ammunition that will power
+our future efforts in the military."
+361.92,"Although Scale AI has established a strong lead in 
+AI-powered data labeling, its approach—hiring and"
+367.2,"managing data labelers—can be easily replicated.
+Other companies, such as Surge AI, Labelbox,"
+373.24,"and Snorkel AI, are already 
+stepping into the same space."
+377.12,"But Alexandr is confident that Scale 
+AI maintains a significant advantage."
+381.96,"He told Forbes, “I would say that we’ve 
+been working on this problem longer and"
+385.56,"have built more technology than anyone else.”
+Scale’s edge may come from Alexandr himself."
+391.44,"William Hockey, the billionaire co-founder 
+of fintech company Plaid who sits on"
+395.36,"Scale’s board, said this to Forbes:
+“Wang didn’t get to where he is because"
+399.24,"he’s a boy genius—MIT pumps out a lot of teenage 
+dropouts. He has an absolutely insane work ethic.”"
+407.28,"But for Alexandr, hard work alone isn't enough."
+410.2,"His leadership emphasizes 'active 
+thinking'—constantly questioning"
+414.44,"assumptions and testing ideas with data.
+As he explained in a memo to his team: Ensure to"
+420.04,"ask questions, challenge assumptions, and identify 
+where the real bottlenecks and constraints are. It"
+425.64,"is the only way you will be able to sort through 
+the noise to identify the reasons you failed."
+430.44,"Alexandr warns against 'nice syndrome,' 
+where large groups avoid challenging"
+434.32,"important ideas for fear of seeming impolite.
+He advocates for a culture that promotes"
+439.16,"questioning assumptions on critical issues, 
+ensuring that ideas are rigorously tested."
+444.76,"None of Alexandr’s success would have 
+been possible without mastering coding."
+449.08,You can develop those same skills with Brilliant.
+451.4,"Brilliant’s Python courses teach you to code 
+from day one with their drag-and-drop editor."
+456.08,"I like that it's completely hands-on, 
+so you're learning by doing."
+459.48,"Plus, Brilliant’s new data science 
+content lets you analyze real-world"
+463.08,"data to train you to see trends 
+and help you make better decisions."
+467.08,"Whether you're interested in math, programming,"
+469.24,"or AI, there's something for 
+everyone and every skill level."
+472.8,"You can try Brilliant for FREE for 30 days by 
+signing up at brilliant.org/newsthink - link"
+479.04,"in my description - or scan 
+the QR code on your screen."
+482.48,"If you love it, you’ll get 20% off 
+Brilliant’s annual Premium subscription,"
+486.92,unlocking thousands of interactive lessons.
+489.04,Thanks for watching.
+489.96,"For Newsthink, I’m Cindy Pom."
+Title:,The Young Billionaire Who Built a Company the World Relies On
